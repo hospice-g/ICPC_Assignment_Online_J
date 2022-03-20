@@ -1,0 +1,27 @@
+Question 1 :
+Un entier signé 32 bits est un entier dont la valeur est représentée sur 32 bits avec un bit comme
+signe et les 31 bits restants comme grandeur de l'entier. Ainsi on peut stocker 2³¹-1=2 147 483 647
+est le plus grand nombre qu’on peut écrire sur un entier de 32 bits signé et il s’écrit sur 10 chiffres.
+Donc la réponse est 10.
+
+
+Question 2 :
+Un entier signé 64 bits est un entier dont la valeur est représentée sur 64 bits avec un bit comme
+signe et les 63 bits restants comme grandeur de l'entier. Ainsi on peut stocker 2 ⁶ ³-1= 9 223 372 036
+854 775 807 est le plus grand nombre qu’on peut écrire sur un entier de 64 bits signé et il s’écrit sur
+19 chiffres.
+Donc la réponse est 19.
+
+Question 3 :
+Il y aura débordement au niveau des codes :
+- N°2 :
+- N°3 :
+- N°4:
+
+
+Question 4 :
+15
+
+
+Question 5 :
+-1.0 and 0.9991

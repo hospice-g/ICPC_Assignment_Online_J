@@ -1,0 +1,28 @@
+Nom & Prénom : GUIDIHOUNME Julien Hospice
+Filière : RO
+
+
+Quiz-Time complexity
+
+
+1 - O(nmk)
+
+2 - 
+	* n=2000, m=20, k=500
+	* n=m=k=100
+	
+3 - 
+Justification : Oui nous pouvons rendre cette fonction plus rapide. En effet ,cette fonction nous aide
+à calculer le carré de la somme des éléments d’un tableau. Au lieu de faire le parcours du tableau
+plusieurs fois, un seul parcours suffit . Cela diminuera la complexité de cette fonction  jusqu'a o(n) donc
+augmentera sa rapidité.
+
+def calculate(a):
+	sum = result = 0
+	for j in a:
+		sum += j
+	
+	for j in a:
+		result += j*sum
+		
+

@@ -1,0 +1,4 @@
+def getTest():
+    # chaine de caractères de meme caractere va crasher le programme exemple:
+    s = "aaaaa"
+    return s

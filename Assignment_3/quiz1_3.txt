@@ -1,0 +1,4 @@
+def getTest():
+    n = 100000
+    return n 
+#ici le problème est la contrainte de temps d'execution , exemple n = 100000 va prendre enormement de temps

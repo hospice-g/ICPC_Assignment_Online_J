@@ -1,0 +1,3 @@
+def getTest():
+    
+    return a[-1, -2] #juste un cas possible pour lequel le programme ne marche pas
